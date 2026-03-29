@@ -1,4 +1,4 @@
-package com.telusko;
+package com.Learning;
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
